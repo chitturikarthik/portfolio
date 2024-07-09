@@ -41,7 +41,7 @@ const Hero = () => {
             initial="hidden"
             animate="visible"
             className='pb-4 block text-lg md:text-xl lg:text-2xl font-semibold bg-gradient-to-br from-gray-800 to-gray-200 bg-clip-text text-transparent dark:text-cyan-400 dark:font-medium'>
-            Full Stack Developer & UI/UX Designer from INDIA
+            A Full Stack Developer & UI/UX Designer from INDIA
           </motion.span>
           
             <Icons/>

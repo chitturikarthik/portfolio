@@ -37,7 +37,7 @@ const container2 = (time) => ({
         className='text-xl'/></motion.a>
 
         <motion.a 
-        href='https://www.linkedin.com/in/karthik-chitturi-0904kc2203/' target='new'
+        href='https://www.linkedin.com/in/karthikchitturi0922/' target='new'
         variants={container(1.25)}
         initial="hidden"
         animate="visible"
@@ -62,7 +62,7 @@ const container2 = (time) => ({
         </motion.a>
 
         <motion.a 
-        href='https://www.behance.net/karthikchitturi' target='new' variants={container2(1.25)}
+        href='https://www.instagram.com/the_karthik_chitturi' target='new' variants={container2(1.25)}
         initial="hidden"
         animate="visible"
         className='p-3 bg-neutral-200 rounded-full text-neutral-400 hover:bg-pink-500 hover:text-gray-50 transition-all duration-300 ease-in-out '>
