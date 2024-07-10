@@ -49,7 +49,7 @@ const container2 = (time) => ({
         href='https://leetcode.com/u/karthik_csd/' target='new' 
         initial={{y:20,opacity:0}}
         animate={{y:0,opacity:1 ,transition:{duration:1.25 ,delay:1.25 }}}
-        className='p-3 bg-neutral-200 dark:bg-gray-800 dark:text-blue-300 rounded-full text-neutral-400 hover:bg-yellow-400 hover:text-gray-700 transition-all duration-300 ease-in-out dark:hover:bg-yellow-400 dark:hover:text-gray-700 '>
+        className='p-3 bg-neutral-200 dark:bg-gray-800 dark:text-blue-300 rounded-full text-neutral-400 hover:bg-yellow-400 hover:text-gray-700 transition-all duration-300 ease-in-out dark:hover:bg-yellow-400 dark:hover:text-gray-50'>
         <SiLeetcode className='text-xl'/>
         </motion.a>
 
