@@ -15,7 +15,7 @@ export const EXPERIENCES = [
   {
     year: "Oct 2023 - Apr 2024",
     role: "Frontend Developer & UI Desginer Intern",
-    company: "PurpelLane",
+    company: "PurpleLane",
     description: ` Collaborated with the development team to implement and maintain frontend features for web applications.
     Translated design wireframes into responsive and interactive user interfaces.
     Developed widgets and components to improve the appearance and feel of the website and to upgrade the platform’s learning management system.`,
@@ -80,5 +80,5 @@ export const PROJECTS = [
 export const CONTACT = {
   address: "Palakol, West Godavari, AndhraPradesh, India",
   phoneNo: "+91 93989 54816",
-  email: "kartihkch.official@gmail.com",
+  email: "karthik.official@gmail.com",
 };

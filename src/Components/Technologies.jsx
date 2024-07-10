@@ -31,7 +31,7 @@ const Technologies = () => {
         <motion.p 
         whileInView={{opacity:1 , y:0}}
         initial={{opacity:0,y:-50}}
-        transition={{duration:1.5 , delay:0.2}}className='text-center mt-8 font-semibold text-xl uppercase text-blue-600'>Development</motion.p>
+        transition={{duration:1.5 , delay:0.2}}className='text-center mt-8 font-semibold text-xl uppercase text-blue-600 dark:text-white'>Development</motion.p>
 
         <motion.div 
         whileInView={{opacity:1 , y:0}}
@@ -126,7 +126,7 @@ const Technologies = () => {
         <motion.p 
         whileInView={{opacity:1 , y:0}}
         initial={{opacity:0,y:-50}}
-        transition={{duration:1.5 , delay:0.2}}className='text-center mt-8 font-semibold text-xl uppercase text-blue-600'>Designing</motion.p>
+        transition={{duration:1.5 , delay:0.2}}className='text-center mt-8 font-semibold text-xl uppercase text-blue-600 dark:text-white'>Designing</motion.p>
 
         <motion.div 
         whileInView={{opacity:1 , y:0}}
