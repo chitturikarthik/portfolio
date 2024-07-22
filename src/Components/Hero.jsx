@@ -49,7 +49,7 @@ const Hero = () => {
             <motion.a className='flex items-center gap-1 bg-blue-500 px-4 py-3 rounded-xl text-white dark:bg-gray-50 dark:text-gray-700 dark:font-semibold hover:bg-blue-600'
             initial={{x:-50,opacity:0}}
             animate={{x:0,opacity:1,transition:{duration:1.5 , delay:2.5}}}
-            href='https://drive.google.com/file/d/1Yukx90fJlLe-2lfToT1ABDxQAYNZAY3X/view?usp=sharing'
+            href='https://drive.google.com/file/d/1x1ysENVdqNSkAen3fuIzLo5vtQG5uWq5/view?usp=sharing'
             target='new'>
                 <span>Resume</span>
                 <MdOutlineDownloading className='text-2xl'/>
