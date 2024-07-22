@@ -32,7 +32,7 @@ const Hero = () => {
               backgroundSize: '200% 200%',
               animation: 'gradient-animation 5s ease infinite'
             }}
-            className='pb-2 text-5xl md:text-6xl lg:text-9xl font-semibold tracking-tight bg-gradient-to-r from-cyan-300 to-blue-700 bg-clip-text text-transparent dark:text-white'>
+            className='pb-2 text-5xl md:text-6xl lg:text-9xl font-semibold tracking-tight bg-gradient-to-r from-cyan-200 to-blue-800 bg-clip-text text-transparent dark:text-white'>
                 Karthik Chitturi
           </motion.h1>
 
