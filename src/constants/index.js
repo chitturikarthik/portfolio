@@ -5,11 +5,15 @@ import project4 from "../assets/projects/project-4.jpg";
 
 export const HERO_CONTENT = `I am a passionate full stack developer with a knack for crafting robust and scalable web applications. With 5 years of hands-on experience, I have honed my skills in front-end technologies like React and Next.js, as well as back-end technologies like Node.js, MySQL, PostgreSQL, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
 
-export const ABOUT_TEXT = `Hello! I’m Karthik Chitturi, a web developer currently pursuing a Bachelor's degree in Computer Science and Design at Sagi RamaKrishnam Raju Engineering College. I've interned as a Frontend Developer at PURPLELANE, where I translated design wireframes into interactive user interfaces, and as a Full Stack Developer at MCR WEB SOLUTIONS, creating user-centric websites.
+export const ABOUT_TEXT = `Picture a student who loves technology and wants to make a real difference – that's me, Karthik Chitturi. I'm currently studying Computer Science and Design at Sagi RamaKrishnam Raju Engineering College, where I've worked hard to maintain a CGPA of 8.12.
 
-I have led projects like the SAANA Alumni website and a Web Analytics Portal, showcasing my ability to handle both frontend and backend development. My strengths include quick adaptation and continuous learning, strong problem-solving skills, and attention to detail.
+My journey got exciting when I joined PURPLELANE as a Frontend Developer and UI Designer Intern. There, I worked with a great team to turn design ideas into interactive user interfaces. Before that, at MCR WEB SOLUTIONS, I helped create websites for clients, including a special alumni portal and a conference site for the University of Hyderabad.
 
-I am proficient in HTML, CSS, JavaScript, PHP, Python, SQL, Bootstrap, Tailwin CSS and the MERN stack, with experience in tools like GitHub, Photoshop, Blender, Adobe XD and Figma. I’m passionate about building scalable web applications and continuously learning new technologies.`;
+One of my proudest projects is SAANA, a platform for over 200 NRI graduates from the 1990s. Inspired by my mentor, Dr. Suresh, and supported by a fantastic team, we integrated PayPal for payments, managed memberships, and built a dynamic dashboard. My skills in HTML, CSS, JavaScript, and PHP were key, but it was our teamwork that made SAANA possible.
+
+Right now, I'm working on a web analytics portal for the University of Hyderabad, using PHP and Geolocation API for real-time visitor tracking. My technical skills include the MERN Stack, Python, SQL, MySQL, GitHub, Figma, and Blender, and I have certifications in ReactJs and other web technologies. I've also joined many hackathons to keep improving my skills.
+
+What I love most is working with others to create software that makes a difference. Through these projects, I've learned that teamwork and a shared vision can achieve amazing things and I'm excited about what the future holds.`;
 
 export const EXPERIENCES = [
   {

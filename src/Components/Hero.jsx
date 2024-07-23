@@ -32,7 +32,7 @@ const Hero = () => {
               backgroundSize: '200% 200%',
               animation: 'gradient-animation 5s ease infinite'
             }}
-            className='pb-2 text-5xl md:text-6xl lg:text-9xl font-semibold tracking-tight bg-gradient-to-r from-cyan-200 to-blue-800 bg-clip-text text-transparent dark:text-white'>
+            className='pb-2 text-5xl md:text-6xl lg:text-9xl font-semibold tracking-tight bg-gradient-to-r from-cyan-300 to-blue-800 bg-clip-text text-transparent dark:text-white'>
                 Karthik Chitturi
           </motion.h1>
 
@@ -49,7 +49,7 @@ const Hero = () => {
             <motion.a className='flex items-center gap-1 bg-blue-500 px-4 py-3 rounded-xl text-white dark:bg-gray-50 dark:text-gray-700 dark:font-semibold hover:bg-blue-600'
             initial={{x:-50,opacity:0}}
             animate={{x:0,opacity:1,transition:{duration:1.5 , delay:2.5}}}
-            href='https://drive.google.com/file/d/1qR2Qc-LF5iOm8uPRbC9DDAwCKQbQQ6k3/view?usp=sharing'
+            href='https://drive.google.com/file/d/1uzf0I_UBfGmV4R7bNtukVMN0qJEYuTj_/view?usp=sharing'
             target='new'>
                 <span>Resume</span>
                 <MdOutlineDownloading className='text-2xl'/>
