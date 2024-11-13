@@ -1,6 +1,6 @@
 import React from 'react'
 import { motion } from 'framer-motion'
-import dark from "../assets/me.png"
+import dark from "../assets/me2.png"
 
 const About = ({isDarkMode}) => {
   return (
