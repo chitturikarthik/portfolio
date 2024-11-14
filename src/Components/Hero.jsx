@@ -22,7 +22,7 @@ const Hero = () => {
         <motion.p className='pt-2 font-medium lg:text-2xl text-gray-400 tracking-tight dark:font-normal'
         initial={{y:50,opacity:0}}
         animate={{y:0,opacity:1,transition:{duration:1,delay:1}}}
-        >Devloping Inventive Thoughts Into <span className='text-blue-400 dark:text-cyan-400'>Immersive User Journeys</span></motion.p>
+        >Developing Inventive Thoughts Into <span className='text-blue-400 dark:text-cyan-400'>Immersive User Journeys</span></motion.p>
         
           <motion.h1
             whileInView={{opacity:1,scale:1}}
